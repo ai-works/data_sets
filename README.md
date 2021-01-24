@@ -1,2 +1,3 @@
 # data_sets
-repo for business ai data sets
+The repo consists of several data sets which will be used in the course ai for business leaders.
+
